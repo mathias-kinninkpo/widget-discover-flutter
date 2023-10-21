@@ -322,7 +322,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           },
                           child: const Text("AJOUTER")
                       ),
-                      const SizedBox(width: 8,)
+                      /*const SizedBox(width: 8,)*/
 
                     ],
                   )
